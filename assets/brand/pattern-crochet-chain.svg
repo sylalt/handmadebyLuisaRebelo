@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="120" viewBox="0 0 240 120">
+<title>Subtle crochet chain repeat</title>
+<rect width="240" height="120" fill="#f7f4ec"/>
+<g fill="none" stroke="#073f34" stroke-opacity=".22" stroke-width="2">
+<path d="M-18 30c12-18 28-18 40 0s28 18 40 0 28-18 40 0 28 18 40 0 28-18 40 0 28 18 40 0"/>
+<path d="M-18 90c12-18 28-18 40 0s28 18 40 0 28-18 40 0 28 18 40 0 28-18 40 0 28 18 40 0"/>
+<path d="M12 0c-18 12-18 28 0 40s18 28 0 40 18 28 0 40"/>
+<path d="M72 0c-18 12-18 28 0 40s18 28 0 40 18 28 0 40"/>
+<path d="M132 0c-18 12-18 28 0 40s18 28 0 40 18 28 0 40"/>
+<path d="M192 0c-18 12-18 28 0 40s18 28 0 40-18 28 0 40"/>
+</g></svg>

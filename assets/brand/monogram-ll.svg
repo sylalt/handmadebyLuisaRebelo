@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-labelledby="title desc">
+<title id="title">LUISA London LL monogram</title><desc id="desc">Interlocking L letters inside a fine circular frame.</desc>
+<circle cx="250" cy="250" r="218" fill="none" stroke="#a58c60" stroke-width="2"/>
+<circle cx="250" cy="250" r="202" fill="none" stroke="#073f34" stroke-opacity=".18" stroke-width="1"/>
+<text x="232" y="315" text-anchor="middle" fill="#073f34" font-family="Cormorant Garamond, Georgia, serif" font-size="248" font-weight="400">L</text>
+<text x="306" y="315" text-anchor="middle" fill="#073f34" font-family="Cormorant Garamond, Georgia, serif" font-size="248" font-weight="400">L</text>
+</svg>

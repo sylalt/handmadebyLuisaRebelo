@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+<title>Ivory woven texture tile</title><rect width="160" height="160" fill="#f7f4ec"/>
+<defs><pattern id="weave" width="16" height="16" patternUnits="userSpaceOnUse">
+<path d="M0 4h16M0 12h16" stroke="#a58c60" stroke-opacity=".11" stroke-width="1"/>
+<path d="M4 0v16M12 0v16" stroke="#073f34" stroke-opacity=".08" stroke-width="1"/>
+<path d="M0 8h16M8 0v16" stroke="#fffdf7" stroke-opacity=".7" stroke-width="1"/>
+</pattern></defs>
+<rect width="160" height="160" fill="url(#weave)"/>
+</svg>

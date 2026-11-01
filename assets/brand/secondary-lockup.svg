@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+<title id="title">LUISA London secondary logo</title><desc id="desc">A refined stacked LUISA London wordmark in deep green.</desc>
+<rect width="720" height="300" fill="none"/>
+<text x="360" y="150" text-anchor="middle" fill="#073f34" font-family="Cormorant Garamond, Georgia, serif" font-size="150" letter-spacing="11">LUISA</text>
+<path d="M235 183H485" stroke="#a58c60" stroke-width="1"/>
+<text x="360" y="242" text-anchor="middle" fill="#073f34" font-family="Cormorant Garamond, Georgia, serif" font-size="48" letter-spacing="27">LONDON</text>
+</svg>
