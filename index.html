@@ -187,9 +187,14 @@
       .supporting { margin-top: 24px; }
 
       .image-composition {
-        max-height: 520px;
-        gap: 7px;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        max-height: none;
+        overflow: visible;
+        gap: 9px;
       }
+
+      .image-column:nth-child(3) { display: contents; }
+      .image-column:nth-child(2) { padding-top: 0; }
 
       .image-column { gap: 7px; }
       .image-column:nth-child(2) { padding-top: 28px; }
@@ -199,7 +204,8 @@
 
     @media (max-width: 480px) {
       .topbar { font-size: 8px; }
-      .image-composition { max-height: 390px; }
+      .image-composition { gap: 7px; }
+      .image-column { gap: 7px; }
 
       .footer {
         flex-direction: column;
@@ -256,8 +262,6 @@
         </div>
         <div class="image-column">
           <img src="assets/look-06.png" alt="Cobalt and rust crochet textile detail" loading="lazy">
-          <img src="assets/look-05.jpg" alt="Colourful statement textile bag" loading="lazy">
-          <img src="assets/look-10.jpg" alt="Ivory artisanal knitwear" loading="lazy">
           <img src="assets/look-11.jpg" alt="Textured woven tote bag" loading="lazy">
         </div>
       </section>
