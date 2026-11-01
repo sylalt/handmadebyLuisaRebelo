@@ -56,7 +56,7 @@
     .main {
       flex: 1;
       display: grid;
-      grid-template-columns: minmax(300px, .82fr) minmax(0, 1.18fr);
+      grid-template-columns: minmax(260px, .72fr) minmax(0, 1.28fr);
       gap: clamp(36px, 6vw, 100px);
       align-items: center;
       padding: clamp(38px, 6vh, 76px) 0;
@@ -123,8 +123,8 @@
       grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 10px;
       align-items: start;
-      max-height: 690px;
-      overflow: hidden;
+      max-height: none;
+      overflow: visible;
     }
 
     .image-column {
@@ -163,7 +163,7 @@
     }
 
     @media (max-width: 850px) {
-      .page-shell { padding: 22px 20px 18px; }
+      .page-shell { padding: 16px 12px 14px; }
 
       .main {
         grid-template-columns: 1fr;
